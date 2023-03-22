@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-03-22T04:50:05.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="H_CJC8lx0nnFyEw6Pn3y" version="21.0.10" type="github">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="2200" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-96" target="1R5daKkpj-coX_pTJ8zQ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-96" value="Iniciar sesión" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="791.1764705882352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-97" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;c63a4bfd-bd29-4985-a2f5-bfe77c777ee1&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;VSXQRDp22B7&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Validación de rol&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-103" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;fb8ad227-2caa-49a4-a495-3731cfe72b9c&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;yeENyCHEjBC&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Selección de módulo de Pendientes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-105" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;5ca9e9b5-8c75-4e6b-a9c9-3f4cc66c3b63&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;sScARJZYRGb&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Selección de módulo de Comunicación&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-106" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;450e86d6-0db6-42ea-836a-21f179efb29d&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;fFg6nuJVmIN&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Selección de módulo de Cultura&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-109" target="1R5daKkpj-coX_pTJ8zQ-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-109" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;90dcbbf5-0426-4f80-98dc-184640bd50d0&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;DHXZJkRV0ru&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Selección de módulo en Sistema de Indicadores&lt;/p&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-97" target="1R5daKkpj-coX_pTJ8zQ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-115" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;3df88197-a636-480b-87fe-323ac43330b9&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;LxU2c22Rfxj&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;main&amp;quot;}]&quot; style=&quot;text-align: left&quot;&gt;Rol = Reporteador&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-116" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;c7338917-41ff-45cf-a9dc-5aaf86da9330&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;qV5CG0zE4qy&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;main&amp;quot;}]&quot; style=&quot;text-align: left&quot;&gt;Rol = Administrador de Indicadores&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-117" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;c7338917-41ff-45cf-a9dc-5aaf86da9330&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;qV5CG0zE4qy&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;main&amp;quot;}]&quot; style=&quot;text-align: left&quot;&gt;Rol = Cultura&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-118" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;c7338917-41ff-45cf-a9dc-5aaf86da9330&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;qV5CG0zE4qy&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;main&amp;quot;}]&quot; style=&quot;text-align: left&quot;&gt;Rol = Comunicación&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="545" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-121" value="Servescol" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-120" target="1R5daKkpj-coX_pTJ8zQ-122">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint x="630" y="310" as="targetPoint" />
+            <mxPoint x="250" y="890" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-132" value="Indicadores" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-120" target="1R5daKkpj-coX_pTJ8zQ-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-120" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;dbf7ef30-86cf-46c6-9189-481ebb0c2748&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;xXV8pUtimnV&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;¿Navegación en Servescol o Indicadores?&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="195" y="265" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-122" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;450e86d6-0db6-42ea-836a-21f179efb29d&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;fFg6nuJVmIN&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;Navegación en módulos de Gestión Escolar&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-128" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;c7338917-41ff-45cf-a9dc-5aaf86da9330&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;qV5CG0zE4qy&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;main&amp;quot;}]&quot; style=&quot;text-align: left&quot;&gt;Rol = Súper Administrador&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1R5daKkpj-coX_pTJ8zQ-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R5daKkpj-coX_pTJ8zQ-133" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;tiptapChildEditor&amp;quot;,{&amp;quot;id&amp;quot;:&amp;quot;dbf7ef30-86cf-46c6-9189-481ebb0c2748&amp;quot;,&amp;quot;shapeId&amp;quot;:&amp;quot;xXV8pUtimnV&amp;quot;,&amp;quot;textId&amp;quot;:&amp;quot;identifier&amp;quot;}]&quot;&gt;¿Se desea gestionar usuarios?&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="130" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
